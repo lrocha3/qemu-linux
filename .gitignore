@@ -1,0 +1,4 @@
+initramfs/
+busybox/
+kernel/
+image/
